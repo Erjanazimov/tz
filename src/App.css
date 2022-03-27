@@ -1,0 +1,22 @@
+li{
+  list-style: none;
+}
+
+.avatar_img{
+  width: 200px;
+  height: 200px;
+}
+
+.search{
+  width: 1000px;
+  margin-top: 20px;
+}
+
+.res{
+  width: 300px!important;
+}
+
+.wid{
+  width: 900px;
+  margin-top: 20px;
+}
